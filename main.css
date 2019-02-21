@@ -5,3 +5,17 @@
     padding: 0px;
     flex-direction: row-reverse;
 }
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.animal {
+    flex-basis: 25%;
+    display: flex;
+}
+
+img {
+    width: 100px;
+}
